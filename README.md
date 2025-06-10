@@ -51,6 +51,10 @@ The dataset includes information on:
 - The United States is the largest contributor of content, but international content is increasing.
 - Most titles were released from 2015 to 2020, reflecting the boom in streaming.
 
+![heat-map for null](https://github.com/user-attachments/assets/666787e0-2ce0-4270-9e22-4c2ae247e14d)
+![EDA-Visual](https://github.com/user-attachments/assets/5963dcf1-9d30-4c93-9eab-93d271a7d818)
+
+
 ---
 
 ## 🚀 Future Work
